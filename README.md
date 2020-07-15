@@ -1,6 +1,6 @@
 # cqfd-maltego
 ### Educational purposes only
-[cqfd](https://github.com/cqfd/keskivonfer) cqfd is a tool and a python libraries to search skype account from a name
+[cqfd](https://github.com/cqfd/keskivonfer) is a tool and a python libraries to search skype account from a name
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
 
