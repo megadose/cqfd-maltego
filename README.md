@@ -1,5 +1,9 @@
 # cqfd-maltego
-<a href="https://www.buymeacoffee.com/megadose" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+👋 Hi there! For any professional inquiries or collaborations, please reach out to me at:
+megadose@protonmail.com
+
+📧 Preferably, use your professional email for correspondence. Let's keep it short and sweet, and all in English!
+
 ### Educational purposes only
 [cqfd](https://github.com/cqfd/keskivonfer) is a tool and a python libraries to search skype account from a name
 
